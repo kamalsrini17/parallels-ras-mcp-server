@@ -41,8 +41,6 @@ sessions = client.get_sessions()
 print(sessions)
 ```
 
-## Submit to MCP
-Submit your MCP server at [https://mcp.so/submit](https://mcp.so/submit)
 
 ## License
 MIT License
